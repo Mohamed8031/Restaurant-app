@@ -1,4 +1,4 @@
-# untitled2
+# Restaurant app
 
 A new Flutter project.
 
